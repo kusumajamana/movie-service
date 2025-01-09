@@ -16,6 +16,10 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 
+
+
+
+
 public class MoviePojo {
     private int movieId;
     @NotNull
